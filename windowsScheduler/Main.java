@@ -26,7 +26,7 @@ public class Main {
 		System.out.println("CPU2: " + cpu2 + " IO2: " + io2);
 		scanner.close();
 		*/
-		List<Thread> threads = Thread.readThreads("src\\input.txt");
+		List<Thread> threads = Thread.readThreads("src/input.txt");
 		
 		
 		
